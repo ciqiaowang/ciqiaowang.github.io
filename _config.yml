@@ -29,11 +29,11 @@ google_analytics: ""
 # Site navigation - each item must have a title and a url.
 navigation:
   - text: Home
-    url: /_pages/about.md
+    URL: ./_pages/about.md
   - text: About
-    url: /about.md
+    url: about.md
   - text: Style Guide
-    url: /style-guide/
+    url: /_pages/about.md
   - text: Tags
     url: /tags/
   - text: Xiaomi
