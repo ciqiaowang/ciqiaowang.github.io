@@ -39,11 +39,11 @@ navigation:
   - text: Style Guide
     url: /_pages/about.md
   - text: Tags
-    url: /tags.md
+    url: /tags/
   - text: Xiaomi
     url: https://www.mi.com/index.html
   - text: Leijun
-    URL: images/favicon.png
+    url: images/favicon.png/
 
 # The shortname for your Disqus site to enable comments.
 disqus: xiaomi
