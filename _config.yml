@@ -31,13 +31,13 @@ navigation:
   - text: Home
     url: /
   - text: About
-    url: /about/
+    url: _pages/about.md
   - text: Style Guide
     url: /style-guide/
   - text: Tags
     url: /tags/
-  - text: Download
-    url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
+  - text: Xiaomi
+    url: https://www.mi.com/index.html
 
 # The shortname for your Disqus site to enable comments.
 disqus: justgoodthemes
