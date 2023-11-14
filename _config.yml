@@ -29,7 +29,11 @@ google_analytics: ""
 # Site navigation - each item must have a title and a url.
 navigation:
   - text: Home
-    URL: ./_pages/about.md
+    URL: /_pages/about.md
+  - text: Home
+    URL: /_pages/about.md/
+  - text: Home
+    URL: /_pages/about/
   - text: About
     url: about.md
   - text: Style Guide
