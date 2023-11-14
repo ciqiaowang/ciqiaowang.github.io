@@ -12,7 +12,7 @@ lang: en-US
 title: "Scriptor"
 
 # A description of your site for meta tag, search engine results.
-description: "Scriptor is a minimal, clean, modern & responsive Jekyll theme for writers"
+description: "Xiaomi is a technology company in Beijing, China."
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
@@ -38,9 +38,11 @@ navigation:
     url: /tags/
   - text: Xiaomi
     url: https://www.mi.com/index.html
+  - text: Leijun
+    url: tags.md
 
 # The shortname for your Disqus site to enable comments.
-disqus: justgoodthemes
+disqus: xiaomi
 
 # Colors
 accent_color: '#2d72d9'
