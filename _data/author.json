@@ -1,7 +1,7 @@
 {
   "name": "Jun Lei",
-  "bio": "Jun Lei is the founder of <a href="www.xiaomi.com">Xiaomi Corp.</a>",
-  "url": "",
+  "bio": "Jun Lei is the founder of <a> href="www.xiaomi.com">Xiaomi Corp.</a>",
+  "url": "www.xiaomi.com",
   "location": "Beijin, China",
   "image": "images/mountain.png"
 }
