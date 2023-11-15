@@ -38,8 +38,8 @@ navigation:
     url: https://www.mi.com/index.html
   - text: Miscellaneous
     url: /miscellaneous.html
-  - text: Permalink
-    url: _pages/about.md
+  - text: CUHK ECON
+    url: https://www.econ.cuhk.edu.hk/econ/en-gb/
 
 # The shortname for your Disqus site to enable comments.
 disqus: xiaomi
