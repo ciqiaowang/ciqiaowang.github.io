@@ -29,7 +29,7 @@ google_analytics: ""
 # Site navigation - each item must have a title and a url.
 navigation:
   - text: Home
-    url: /about.html
+    url: /home.html
   - text: Research
     url: /research.html
   - text: Teaching
