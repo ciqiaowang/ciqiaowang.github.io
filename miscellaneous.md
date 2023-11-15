@@ -14,6 +14,8 @@ feature_image:
 ## Photography
 - Jun Lei is also a well-known photographer!
 
+****
+
 ## Posts
 - [Parent entrepreneurs](_posts/2019-01-01-the-advantages-and-disadvantages-of-working-from-home.md)
 
