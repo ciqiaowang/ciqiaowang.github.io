@@ -38,6 +38,8 @@ navigation:
     url: https://www.mi.com/index.html
   - text: Miscellaneous
     url: /miscellaneous.html
+  - text: Perlink
+    url: https://github.com/ciqiaowang/ciqiaowang.github.io/blob/7dd403ae128df1598bb9211544ce78fa38f7661e/_pages/about.md
 
 # The shortname for your Disqus site to enable comments.
 disqus: xiaomi
