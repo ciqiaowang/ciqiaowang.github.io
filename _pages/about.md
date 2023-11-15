@@ -2,7 +2,7 @@
 layout: page
 title: About Jun Lei
 description: An optional about page for Scriptor Jekyll theme
-permalink: _pages/about.html
+permalink: /_pages/about.html
 feature_image: images/mountain.jpg
 ---
 
