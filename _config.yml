@@ -31,7 +31,7 @@ navigation:
   - text: Home
     url: /_pages/about.html
   - text: About
-    url: /about/
+    url: /about.html
   - text: Research
     url: /_pages/research/
   - text: Teaching
