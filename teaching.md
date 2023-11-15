@@ -6,4 +6,5 @@ permalink: /teaching.html
 feature_image: 
 ---
 
-** Teaching **
+**Teaching**
+- [An introduction to Beamer](assets/pdf/Card.pdf)
