@@ -29,17 +29,15 @@ google_analytics: ""
 # Site navigation - each item must have a title and a url.
 navigation:
   - text: Home
-    url: /_pages/about.html
-  - text: About
     url: /about.html
   - text: Research
-    url: /_pages/research/
+    url: /research.html
   - text: Teaching
-    url: /_pages/teaching/
+    url: /teaching.html
   - text: Xiaomi
     url: https://www.mi.com/index.html
-  - text: Leijun
-    url: images/favicon.png
+  - text: Miscellaneous
+    url: /miscellaneous.html
 
 # The shortname for your Disqus site to enable comments.
 disqus: xiaomi
