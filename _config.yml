@@ -37,7 +37,7 @@ navigation:
   - text: About
     url: /about/
   - text: Style Guide
-    url: /_pages/about.md
+    url: /style-guide/
   - text: Tags
     url: /tags/
   - text: Xiaomi
