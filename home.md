@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ciqiao Wang
+title: Ciqiao Wang | 王次桥
 description: Home
 permalink: /home.html
 feature_image:
