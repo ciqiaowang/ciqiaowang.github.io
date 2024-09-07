@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Jun Lei
+title: Ciqiao Wang
 description: Home
 permalink: /home.html
 feature_image:
