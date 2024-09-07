@@ -9,7 +9,7 @@
 lang: en-US
 
 # Site title
-title: "Ciqiao Wang | 王次桥"
+title: "Ciqiao Wang|王次桥"
 
 # A description of your site for meta tag, search engine results.
 description: "Ciqiao Wang is a Ph.D. candicate in Economics at CUHK"
@@ -49,7 +49,7 @@ accent_color: '#2d72d9'
 
 # Site footer
 footer:
-  content: "Jun Lei @ Xiaomi Corp."
+  content: "Ciqiao Wang @ CUHK"
   has_social: false
 
 # Plugins
