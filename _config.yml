@@ -15,7 +15,6 @@ title: "Ciqiao Wang"
 description: "Ciqiao Wang is a Ph.D. candicate in Economics at CUHK"
 
 # The subpath of your site, e.g. /blog, for generating urls.
-baseurl: "https://ciqiaowang.github.io/index.html"
 # baseurl: ""
 
 # The base hostname & protocol of your site for where absolute urls are needed.
