@@ -6,5 +6,10 @@ permalink: /research.html
 feature_image: 
 ---
 ***Research***
-<img src=images/640.jpg hight=500>
+
+My publications xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+<div align="right">
+  <img src=images/640.jpg height="500px" />
+</div>
+
 
