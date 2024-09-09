@@ -6,8 +6,8 @@ permalink: /research.html
 feature_image: 
 ---
 ***Research***
-<div align="center">
-  <img src=images/640.jpg height="500px" />
-</div>
+<center>
+  <img src="images/640.jpg" height="500px" />
+</center>
 
 
