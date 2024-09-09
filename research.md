@@ -7,7 +7,7 @@ feature_image:
 ---
 ***Research***
 <center>
-  <img src="images/640.jpg" height="500px" />
+  <img src="images/640.jpg" height="280px" />
 </center>
 
 
