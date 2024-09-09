@@ -13,7 +13,12 @@ feature_image:
 
 ## Photography
 - Jun Lei is also a well-known photographer!
-
+- Wuhan University
+<figure class="half">
+  <img src="images/640.jpg" title="whu" width="200"/>
+  <img src="images/640.jpg" title="whu" width="200"/>
+  <img src="images/640.jpg" title="whu" width="200"/>
+</figure>
 ****
 
 ## Posts
