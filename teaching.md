@@ -22,4 +22,4 @@ feature_image:
 - *Advanced Econometrics* (undergraduate level)
 
 ### Others
-- [An introduction to Beamer](assets/pdf/Card.pdf)
+- [The art and practice of economic research](assets/pdf/Card.pdf), by *David Card*
