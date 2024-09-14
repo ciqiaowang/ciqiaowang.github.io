@@ -9,15 +9,16 @@ feature_image:
     <head> 
         <meta charset="UTF-8"> 
         <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-        <meta name="google-site-verification" content="RDMY7qh6Bah6Gq1ovvIHGui_h6ngCW9YFSw0Wcs0-1Q" />
         <meta http-equiv="X-UA-Compatible" content="ie=edge"> 
         <title>
           Home Page
         </title> 
         <style> 
-            .bigBox{ width: 100%;  /* 定义一个大盒子 宽度100% */ 
-                    font-size: 16px;
-                    line-hight:1.6;
+            .bigBox{ 
+                float: none
+                width: 100%;  /* 定义一个大盒子 宽度100% */ 
+                font-size: 16px;
+                line-hight:1.6;
             } 
             .bigBox_img_left{ /* 第二个盒子, */ 
                 float: left; /* 要左浮动 */ 
@@ -25,11 +26,13 @@ feature_image:
             } 
             .bigBox_txt_right{ 
                 /* 定义第三盒子 */ 
-/*                 font-size: 18px; /* 设置字体大小 */  */
-/*                 line-height: 1.8; /* 设置行距 */  */
+                float: right;
+/*                 font-size: 18px; /* 设置字体大小 */ 
+/*                 line-height: 1.8; /* 设置行距 */ 
             } 
-            img{ width: 300px; /* 标签样式 让图片宽度450px, *
-                / height: auto; /* 高度自动 随它去吧 */ 
+            img{ 
+                width: 300px; /* 标签样式 让图片宽度450px, */
+                height: auto; /* 高度自动 随它去吧 */
             } 
         </style> 
     </head> 
