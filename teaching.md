@@ -6,7 +6,6 @@ permalink: /teaching.html
 feature_image: 
 ---
 
-## Teaching
 ### Chinese University of Hong Kong
 **As TA:**
 - ECON1011 *Mathematical Methods in Economics* (undergraduate level)
