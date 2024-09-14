@@ -9,7 +9,7 @@
 lang: en-US
 
 # Site title
-title: "Ciqiao Wang | CUHK"
+title: "Ciqiao Wang"
 
 # A description of your site for meta tag, search engine results.
 description: "Ciqiao Wang is a Ph.D. candicate in Economics at CUHK"
@@ -50,7 +50,7 @@ accent_color: '#2d72d9'
 
 # Site footer
 footer:
-  content: "Ciqiao Wang @ CUHK"
+  content: "Ciqiao Wang | CUHK ECON"
   has_social: false
 
 # Plugins
