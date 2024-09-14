@@ -21,4 +21,4 @@ feature_image:
 - *Advanced Econometrics* (undergraduate level)
 
 ### Others
-- [The art and practice of economic research](assets/pdf/Card.pdf), by *David Card*
+- [The art and practice of economics research](assets/pdf/Card.pdf), by *David Card*
