@@ -9,7 +9,7 @@
 lang: en-US
 
 # Site title
-title: "Ciqiao Wang"
+title: "Ciqiao Wang | CUHK"
 
 # A description of your site for meta tag, search engine results.
 description: "Ciqiao Wang is a Ph.D. candicate in Economics at CUHK"
@@ -25,7 +25,7 @@ url: "https://ciqiaowang.github.io/index.html"
 favicon: images/favicon.png
 
 # Google Analytics id, e.g. "UA-NNNNNNNN-N"
-google_analytics: ""
+# google_analytics: ""
 
 # Site navigation - each item must have a title and a url.
 navigation:
@@ -35,8 +35,8 @@ navigation:
     url: /research.html
   - text: Teaching
     url: /teaching.html
-  - text: Xiaomi
-    url: https://www.mi.com/index.html
+  # - text: Xiaomi
+  #   url: https://www.mi.com/index.html
   - text: Miscellaneous
     url: /miscellaneous.html
   - text: CUHK ECON
