@@ -30,7 +30,7 @@ favicon: images/favicon.png
 # Site navigation - each item must have a title and a url.
 navigation:
   - text: Home
-    url: /index.html
+    url: https://ciqiaowang.github.io/
   - text: Research
     url: /research.html
   - text: Teaching
