@@ -12,7 +12,7 @@ lang: en-US
 title: "Ciqiao Wang"
 
 # A description of your site for meta tag, search engine results.
-description: "Ciqiao Wang is a Ph.D. candicate in Economics at CUHK"
+description: "Ciqiao Wang is currently a Ph.D. candicate in Economics at the Chinese University of Hong Kong (CUHK). Before joining CUHK, He obtained his B.A. degree in Economics and B.S. degree in Mathematics from Wuhan University in 2020."
 
 # The subpath of your site, e.g. /blog, for generating urls.
 # baseurl: ""
@@ -25,7 +25,7 @@ url: "https://ciqiaowang.github.io/index.html"
 favicon: images/favicon.png
 
 # Google Analytics id, e.g. "UA-NNNNNNNN-N"
-# google_analytics: ""
+google_analytics: "G-SW1S9DMXE0"
 
 # Site navigation - each item must have a title and a url.
 navigation:
@@ -43,7 +43,7 @@ navigation:
     url: https://www.econ.cuhk.edu.hk/econ/en-gb/
 
 # The shortname for your Disqus site to enable comments.
-disqus: ciqiao
+disqus: Ciqiao
 
 # Colors
 accent_color: '#2d72d9'
