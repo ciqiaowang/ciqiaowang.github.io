@@ -9,7 +9,7 @@ feature_image:
 
 Pending for update
 <center>
-  <img src="images/640.jpg" height="280px" />
+  <img src="images/Hometown-Tree.jpg" height="120px" />
 </center>
 
 
