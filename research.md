@@ -6,7 +6,7 @@ permalink: /research.html
 feature_image: 
 ---
 <center>
-  <img src="images/Hometown-Winter.jpg" height="120px" />
+  <img src="images/Hometown-Winter-720.jpg" height="120px" />
 </center>
 
 ### Working Papers
